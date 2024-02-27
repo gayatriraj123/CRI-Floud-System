@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 10px;
+  background-color: rgb(234, 210, 233);
+  /* box-sizing: border-box; */
+  /* padding-top: 10px; */
+
+}
+
+/* *{
+  margin:0;
+  padding:0;
+  width:0px;
+} */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  /* min-height: 100vh; */
+  box-sizing: border-box;
+  /* background-color: brown; */
+  gap: 3px;
+  border-color: black;
+  border-radius: 5px;
+}
